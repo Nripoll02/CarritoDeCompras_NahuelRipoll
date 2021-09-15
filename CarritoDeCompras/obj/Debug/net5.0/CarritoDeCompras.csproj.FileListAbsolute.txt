@@ -1,0 +1,5 @@
+C:\Users\Casa\Desktop\Facultad\Laboratorio 2\CarritoDeCompras\CarritoDeCompras\obj\Debug\net5.0\CarritoDeCompras.csproj.AssemblyReference.cache
+C:\Users\Casa\Desktop\Facultad\Laboratorio 2\CarritoDeCompras\CarritoDeCompras\obj\Debug\net5.0\CarritoDeCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casa\Desktop\Facultad\Laboratorio 2\CarritoDeCompras\CarritoDeCompras\obj\Debug\net5.0\CarritoDeCompras.AssemblyInfoInputs.cache
+C:\Users\Casa\Desktop\Facultad\Laboratorio 2\CarritoDeCompras\CarritoDeCompras\obj\Debug\net5.0\CarritoDeCompras.AssemblyInfo.cs
+C:\Users\Casa\Desktop\Facultad\Laboratorio 2\CarritoDeCompras\CarritoDeCompras\obj\Debug\net5.0\CarritoDeCompras.csproj.CoreCompileInputs.cache

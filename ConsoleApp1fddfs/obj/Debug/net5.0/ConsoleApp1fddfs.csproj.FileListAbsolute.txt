@@ -1,0 +1,16 @@
+C:\Users\Casa\Desktop\Facultad\Laboratorio 2\CarritoDeCompras\ConsoleApp1fddfs\obj\Debug\net5.0\ConsoleApp1fddfs.csproj.AssemblyReference.cache
+C:\Users\Casa\Desktop\Facultad\Laboratorio 2\CarritoDeCompras\ConsoleApp1fddfs\obj\Debug\net5.0\ConsoleApp1fddfs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casa\Desktop\Facultad\Laboratorio 2\CarritoDeCompras\ConsoleApp1fddfs\obj\Debug\net5.0\ConsoleApp1fddfs.AssemblyInfoInputs.cache
+C:\Users\Casa\Desktop\Facultad\Laboratorio 2\CarritoDeCompras\ConsoleApp1fddfs\obj\Debug\net5.0\ConsoleApp1fddfs.AssemblyInfo.cs
+C:\Users\Casa\Desktop\Facultad\Laboratorio 2\CarritoDeCompras\ConsoleApp1fddfs\obj\Debug\net5.0\ConsoleApp1fddfs.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Desktop\Facultad\Laboratorio 2\CarritoDeCompras\ConsoleApp1fddfs\bin\Debug\net5.0\ConsoleApp1fddfs.exe
+C:\Users\Casa\Desktop\Facultad\Laboratorio 2\CarritoDeCompras\ConsoleApp1fddfs\bin\Debug\net5.0\ConsoleApp1fddfs.deps.json
+C:\Users\Casa\Desktop\Facultad\Laboratorio 2\CarritoDeCompras\ConsoleApp1fddfs\bin\Debug\net5.0\ConsoleApp1fddfs.runtimeconfig.json
+C:\Users\Casa\Desktop\Facultad\Laboratorio 2\CarritoDeCompras\ConsoleApp1fddfs\bin\Debug\net5.0\ConsoleApp1fddfs.runtimeconfig.dev.json
+C:\Users\Casa\Desktop\Facultad\Laboratorio 2\CarritoDeCompras\ConsoleApp1fddfs\bin\Debug\net5.0\ConsoleApp1fddfs.dll
+C:\Users\Casa\Desktop\Facultad\Laboratorio 2\CarritoDeCompras\ConsoleApp1fddfs\bin\Debug\net5.0\ref\ConsoleApp1fddfs.dll
+C:\Users\Casa\Desktop\Facultad\Laboratorio 2\CarritoDeCompras\ConsoleApp1fddfs\bin\Debug\net5.0\ConsoleApp1fddfs.pdb
+C:\Users\Casa\Desktop\Facultad\Laboratorio 2\CarritoDeCompras\ConsoleApp1fddfs\obj\Debug\net5.0\ConsoleApp1fddfs.dll
+C:\Users\Casa\Desktop\Facultad\Laboratorio 2\CarritoDeCompras\ConsoleApp1fddfs\obj\Debug\net5.0\ref\ConsoleApp1fddfs.dll
+C:\Users\Casa\Desktop\Facultad\Laboratorio 2\CarritoDeCompras\ConsoleApp1fddfs\obj\Debug\net5.0\ConsoleApp1fddfs.pdb
+C:\Users\Casa\Desktop\Facultad\Laboratorio 2\CarritoDeCompras\ConsoleApp1fddfs\obj\Debug\net5.0\ConsoleApp1fddfs.genruntimeconfig.cache
