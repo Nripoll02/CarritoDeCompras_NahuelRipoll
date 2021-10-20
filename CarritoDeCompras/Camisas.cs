@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CarritoDeCompras
 {
-    class AgregarCamisas
+    class Camisas
     {
         private const double precioUnidad = 1000;
 

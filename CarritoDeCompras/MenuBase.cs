@@ -3,7 +3,7 @@
     public class MenuBase
     {
 
-        public void MostrarMenu(AgregarCamisas camisas, Carrito carrito)
+        public void MostrarMenu(Camisas camisas, Carrito carrito)
         {
             do
             {

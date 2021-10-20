@@ -6,7 +6,7 @@ namespace CarritoDeCompras
         private int opcion;
         private int cantidad;
 
-        public void MostrarMenu(AgregarCamisas camisas, Carrito carrito)
+        public void MostrarMenu(Camisas camisas, Carrito carrito)
         {
             do
             {

@@ -6,7 +6,7 @@ namespace CarritoDeCompras
     {
         static void Main(string[] args)
         {
-            AgregarCamisas miCamisa = new AgregarCamisas();
+            Camisas miCamisa = new Camisas();
             Carrito miCarrito = new Carrito();
             Menu miMenu = new Menu();
 
